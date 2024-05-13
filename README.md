@@ -150,11 +150,13 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
-![Screenshot 2024-05-09 095956](https://github.com/GANESH23012861/MathServer/assets/147139861/c9990960-9c6b-4a6b-8d7e-58da92a9a0bf)
+![Screenshot 2024-05-13 093516](https://github.com/GANESH23012861/MathServer/assets/147139861/ba3e8418-5c3e-4597-b7ba-c9acd2908183)
 
+ 
 ## HOMEPAGE:
 
-![Screenshot 2024-05-09 095353](https://github.com/GANESH23012861/MathServer/assets/147139861/57b1440b-f0f1-4c76-8892-1c4e705abd34)
+![oooo](https://github.com/GANESH23012861/MathServer/assets/147139861/5c567f6b-4180-4ed3-a3c5-7f73d74ddf55)
 
-## RESULT:
+
+## output
 The program for performing server side processing is completed successfully.
